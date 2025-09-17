@@ -5,4 +5,4 @@ Built an interactive dashboard in Tableau using Kaggle dataset on mental health 
 In today's fast paced life,mental health is least taken care of,which requires the utmost priority.Hence the sample data so collected helps in bringing a little clarity to bring about the incentives and reforms accordingly.
  
 https://public.tableau.com/app/profile/swati.singh8088/viz/Mental_Health_story/Story_depression
-![](images/dashboard.png)
+![dashboard.png](images/dashboard.png)
