@@ -20,7 +20,7 @@ In today's fast paced life,mental health is least taken care of,which requires t
 - Work/Study Hours vs Depression Risk line chart.
 - Health Status breakdown.
 
-![Main Page](Dashboard Images/1story_depression.png)
+![Main Page](Dashboard%20Images/1story_depression.png)
 
 ### 🗺 Map of India
 - Regional variation in depression prevalence is visually represented, though specific state-level data isn’t labeled.
@@ -121,7 +121,7 @@ ACTIONABLE RECOMMENDATIONS:
 - This helps users and managers reframe productivity and reduce guilt or pressure tied to time-based metrics.
 
 ---
-![Second Page](Dashboard Images/2story_depression.png)
+![Second Page](Dashboard%20Images/2story_depression.png)
 
 The chart offers a compelling snapshot of how sleep duration correlates with both academic pressure and study satisfaction—and interestingly, the percentages are identical across both dimensions. Here's what we can infer:
 📊 Key Observations
@@ -151,7 +151,7 @@ ACTIONABLE RECOMMENDATIONS:
 - Launch student ambassador programs to promote sleep-health through social media, posters, and dorm events.
 
 ---
-![Third Page](Dashboard Images/3story_depression.png)
+![Third Page](Dashboard%20Images/3story_depression.png)
 
 This chart reveals a consistent and telling relationship between sleep duration, job satisfaction, and financial stress—and just like the previous chart, the percentages are identical across both dimensions. Here's what we can infer:
 
